@@ -48,3 +48,5 @@ virtualenv
 Werkzeug
 wrapt
 WTForms
+pytest
+setuptools
