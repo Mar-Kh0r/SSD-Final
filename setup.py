@@ -4,7 +4,7 @@ setup(
     name="StudentSystem",  # Name of your application
     version="1.0.0",
     packages=find_packages(),
-    include_package_data=True,  # Include files from MANIFEST.in
+    include_package_data=True, 
     install_requires=[
         "Flask",
         "Flask-SQLAlchemy",
@@ -12,11 +12,11 @@ setup(
         "Flask-Bcrypt",
         "Flask-Limiter",
         "Flask-Talisman",
-        "pytest"  # Include other dependencies here
+        "pytest" 
     ],
     entry_points={
         'console_scripts': [
-            'studentsystem=app:main',  # Replace 'app:main' with your entry point function
+            'studentsystem=app:main',
         ]
     },
 )
