@@ -1,0 +1,12 @@
+2024-12-28 15:11:26,396 - INFO - Application startup
+2024-12-28 15:13:23,316 - INFO - Application startup
+2024-12-28 15:14:48,336 - INFO - Application startup
+2024-12-28 15:16:53,373 - INFO - Application startup
+2024-12-28 15:18:37,645 - ERROR - 404 error: https://172.17.25.58:8080/favicon.ico
+2024-12-28 15:18:44,782 - INFO - User logout: Muhammad Faheem
+2024-12-28 15:18:53,409 - ERROR - 404 error: https://172.17.25.58:8080/enter-marks
+2024-12-28 15:19:08,880 - INFO - User login successful: i211910@nu.edu.pk
+2024-12-28 15:19:14,175 - INFO - User logout: Muhammad Faheem
+2024-12-28 15:19:36,916 - INFO - Application startup
+2024-12-28 15:35:25,658 - INFO - User login successful: i211910@nu.edu.pk
+2024-12-28 15:35:25,883 - INFO - User login successful: i211910@nu.edu.pk
